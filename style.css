@@ -389,7 +389,7 @@ color: var(--text-color);
 }
 .close-video {
     position: absolute;
-    top: -3rem;
+    top: 0rem;
     right: 0;
     font-size: 40px;
     color: var(--main-color);
